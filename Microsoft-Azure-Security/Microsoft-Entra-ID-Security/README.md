@@ -17,7 +17,7 @@ The foundation of the project involved establishing a structured identity hierar
 * **Outcome:** Ensured that users receive exactly the permissions needed for their roles (Least Privilege).
 
 ![Creating Security Groups](./images/01_Group_Management/Task_2_-_Create_a_Security_group.png)
-![Adding Licenses to Groups](./images/01_Group_Management/Task_4_-_Subtask_1_Adding_a_license_to_a_group.png)
+![Adding Licenses to Groups](./images/01_Group_Management/Task_4_Subtask_1_-_Adding_a_license_to_a_group.png)
 
 ---
 
@@ -29,8 +29,8 @@ To defend against credential-based attacks, I implemented advanced password prot
 
 
 
-![SSPR Configuration](Task_1_-_View_the_SSPR_properties_for_a_specific_group.png)
-![Lockout Settings](Task_1_-_View_lock_settings,_and_review_duration_and_threshold_values.png)
+![SSPR Configuration](./images/03_Password_Protection/Task_1_-_View_lock_settings,_and_review_duration_and_threshold_values.png)
+![Lockout Settings](./images/04_SSPR/Subtask_1_-_View_SSPR_authentication_methods1.png)
 
 ---
 
@@ -40,8 +40,8 @@ This phase focused on "never trust, always verify." I deployed Conditional Acces
 * **Conditional Access:** Reviewed and tested policies that grant or block access based on specific signals (User, Device, Location).
 * **What-If Analysis:** Performed "What-If" simulations to predict how policies would affect users before deployment, ensuring zero disruption to legitimate work.
 
-![MFA Service Settings](Task_2_-_Review_the_Service_settings_for_MFA.png)
-![Conditional Access What-If Analysis](Task_2_-_Perform_a_What_If_analysis_for_a_conditional_access_policy.png)
+![MFA Service Settings](./images/05_MFA/Task_2_-_Review_the_Service_settings_for_MFA.png)
+![Conditional Access What-If Analysis](./images/06_Conditional_Access/Task_2_-_Perform_a_What_If_analysis_for_a_conditional_access_policy.png)
 
 ---
 
