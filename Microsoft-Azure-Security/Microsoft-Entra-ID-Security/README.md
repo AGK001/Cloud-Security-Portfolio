@@ -62,5 +62,5 @@ Implementing this identity suite provides the organization with three core pilla
 ---
 
 ## 📂 Project Assets
-* 📄 [Detailed Identity Security Lab Report (Google Doc)](YOUR_GOOGLE_DOC_LINK_HERE)
+* 📄 [Detailed Identity Security Lab Report (Google Doc)](https://docs.google.com/document/d/1QUl6lLzlmMVe8NHpEghW0gz5qjom02sEu1ovdJlfDS4/edit?usp=sharing)
 * 📁 [Identity Management Screenshots](./images/)
