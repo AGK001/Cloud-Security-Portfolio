@@ -7,7 +7,7 @@ This directory contains a collection of hands-on technical projects and security
 ## 📁 Portfolio Activities & Projects
 
 ### 🆔 Identity & Access Management (IAM)
-* **[Identity Governance & Adaptive Access Control](./Azure-Identity-Security)**: Implemented a Zero Trust identity framework using Microsoft Entra ID. Tasks included managing user lifecycles, configuring Self-Service Password Reset (SSPR), and deploying context-aware Conditional Access policies.
+* **[Identity Governance & Adaptive Access Control](./Microsoft-Entra-ID-Security)**: Implemented a Zero Trust identity framework using Microsoft Entra ID. Tasks included managing user lifecycles, configuring Self-Service Password Reset (SSPR), and deploying context-aware Conditional Access policies.
 
 ### 🛡️ Security Operations & Monitoring (SIEM/XDR)
 * **Microsoft Sentinel (SIEM) Deployment**: *(In Development)* Configuring data connectors, writing KQL (Kusto Query Language) queries to detect threats, and building workbooks for security visualization.
