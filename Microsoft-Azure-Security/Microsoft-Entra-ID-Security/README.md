@@ -16,8 +16,8 @@ The foundation of the project involved establishing a structured identity hierar
 * **Action:** Implemented licensing automation and assigned group owners to decentralize management.
 * **Outcome:** Ensured that users receive exactly the permissions needed for their roles (Least Privilege).
 
-![Creating Security Groups](Task_2_-_Create_a_Security_group.png)
-![Managing Group Licenses](Task_4_-_Add_licenses_and_owners_to_a_group.png)
+![Creating Security Groups](./images/01_Group_Management/Task_2_-_Create_Security_group.png)
+![Adding Licenses to Groups](./images/01_Group_Management/Task_4_-_Subtask_1_Adding_a_license_to_a_group.png)
 
 ---
 
