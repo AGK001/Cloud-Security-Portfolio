@@ -4,7 +4,7 @@ This repository documents my hands-on experience in multicloud security, focusin
 
 ## 📁 Repository Contents
 
-### 1. [Microsoft Azure Security](./Azure-Sentinel-Entra-ID)
+### 1. [Microsoft Azure Security](./Azure-Azure-Security)
 Documented labs and assessments from the Microsoft Applied Skills, SC-900 and SC-300 curriculum, including:
 * **Identity Governance:** Managing users, security groups, and RBAC via Microsoft Entra ID.
 * **Authentication Hardening:** Implementing Self-Service Password Reset (SSPR) and Smart Lockout policies.
