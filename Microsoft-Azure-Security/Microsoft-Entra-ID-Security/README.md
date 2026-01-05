@@ -30,6 +30,7 @@ To defend against credential-based attacks, I implemented advanced password prot
 
 
 ![SSPR Configuration](./images/03_Password_Protection/Task_1_-_View_lock_settings,_and_review_duration_and_threshold_values.png)
+
 ![Lockout Settings](./images/04_SSPR/Subtask_1_-_View_SSPR_authentication_methods1.png)
 
 ---
