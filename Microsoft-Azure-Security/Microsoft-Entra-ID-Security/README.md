@@ -43,6 +43,7 @@ This phase focused on "never trust, always verify." I deployed Conditional Acces
 * **What-If Analysis:** Performed "What-If" simulations to predict how policies would affect users before deployment, ensuring zero disruption to legitimate work.
 
 ![MFA Service Settings](./images/05_MFA/Task_2_-_Review_the_Service_settings_for_MFA.png)
+
 ![Conditional Access What-If Analysis](./images/06_Conditional_Access/Task_2_-_Perform_a_What_If_analysis_for_a_conditional_access_policy.png)
 
 ---
