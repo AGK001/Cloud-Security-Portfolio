@@ -17,6 +17,7 @@ The foundation of the project involved establishing a structured identity hierar
 * **Outcome:** Ensured that users receive exactly the permissions needed for their roles (Least Privilege).
 
 ![Creating Security Groups](./images/01_Group_Management/Task_2_-_Create_a_Security_group.png)
+
 ![Adding Licenses to Groups](./images/01_Group_Management/Task_4_Subtask_1_-_Adding_a_license_to_a_group.png)
 
 ---
